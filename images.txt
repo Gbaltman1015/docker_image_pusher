@@ -4,3 +4,13 @@ k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 xhofe/alist:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
+easychen/cookiecloud
+amilys/embyserver
+iyuucn/iyuuplus-dev
+gdy666/lucky
+jxxghp/moviepilot
+hsuyelin/nas-tools
+6053537/portainer-ce
+linuxserver/qbittorrent:4.5.4
+whyour/qinglong
+linuxserver/transmission:4.0.5
