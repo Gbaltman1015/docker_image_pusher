@@ -2,9 +2,11 @@ easychen/cookiecloud
 amilys/embyserver
 iyuucn/iyuuplus-dev
 gdy666/lucky
-jxxghp/moviepilot
+jxxghp/moviepilot-v2
 hsuyelin/nas-tools
 6053537/portainer-ce
 linuxserver/qbittorrent:4.5.4
 whyour/qinglong
 linuxserver/transmission:4.0.5
+advplyr/audiobookshelf
+vaultwarden/server
